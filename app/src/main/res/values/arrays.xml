@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="task">
+        <item>운동하기</item>
+        <item>공부하기</item>
+        <item>밥먹기</item>
+        <item>산책하기</item>
+        <item>쇼핑하기</item>
+    </string-array>
+
+</resources>
